@@ -1,0 +1,15 @@
+#myChart{
+	background-color: white;
+	margin: 70%;
+	padding: 70%;
+	width:70%;
+	height:70%;
+}
+
+body{
+	background-color: teal;
+}
+h1{
+	text-align: center;;
+	color: white;
+}
